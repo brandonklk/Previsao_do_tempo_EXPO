@@ -1,0 +1,21 @@
+{
+    "weatherForecast": "Previsão do tempo",
+    "day": "Dia",
+    "date": "Data",
+    "city": "Cidade",
+    "dayWeek": "Dia da semana",
+    "tempMax": "Máxima",
+    "tempMin": "Mínima",
+    "period": "Período",
+    "detail": "Detalhe",
+    "select": "Selecionar",
+    "dateOfForecast": "Data da previsão",
+    "statusOfRain": "Status de chuva",
+    "notWeatherPlusLightUmbrella": "Não vai chover, mas leve guarda chuva",
+    "lightRain": "Chuva fina",
+    "rainModerate": "Chuva moderada",
+    "rainStrong": "Chuva forte",
+    "rainSuperStrong": "Vai chover muito, evite em sair de casa",
+    "notRain": "Hoje não vai chover, aproveite"
+    
+}
